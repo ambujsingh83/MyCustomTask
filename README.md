@@ -37,4 +37,4 @@ Use this guide to learn the basics of using the iOS-Task-Frmwrk package. Whether
 Add the following dependency to your **Package.swift** file:
 
 ```swift
-.package(url: "https://github.com/your-username/iOS-Task-Frmwrk.git", from: "1.0.0")
+.package(url: "https://github.com/ambujsingh83/MyCustomTask.git", from: "1.0.0")
