@@ -32,7 +32,6 @@ public struct ListWithLabelView: View {
                 .buttonStyle(PlainButtonStyle()) // Remove default button styling
             }
         }
-        .listStyle(InsetGroupedListStyle()) // Use a grouped style for the list
     }
 
     @ViewBuilder
